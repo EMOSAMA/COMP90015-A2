@@ -2,7 +2,7 @@ package GUI.Whiteboard;
 import COMM.ThreadPool;
 import COMM.ToolType;
 import RMI.Host;
-import STRUCTURE.UserInfo;
+import COMM.UserInfo;
 import java.awt.*;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
@@ -283,9 +283,7 @@ public class Canvas extends JPanel{
             }
             @Override
             public void mouseMoved(MouseEvent e) {
-                // TODO Auto-generated method stub
             }
-
         });
     }
 

@@ -6,110 +6,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="053401c1-d790-411b-a2ef-19d1f2285430" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SharedWhiteboard_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/faas_common.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/faas_service_dto.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jar/SharedWhiteboard_jar/SharedWhiteboard.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SharedWhiteboard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/COMM/FileOperation$ImgFileFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/COMM/FileOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/COMM/ThreadPool$Worker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/COMM/ThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/COMM/ToolType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Home/HomeGUI$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Home/HomeGUI$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Home/HomeGUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas$1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas$1$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas$Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$15.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$16$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$17$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$17.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$1Tool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$7$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$8$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$9$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/IMG/circle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/IMG/eraser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/IMG/line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/IMG/oval.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/IMG/pencil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/IMG/rect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/IMG/text.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/Host.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/Impl/ClientImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/Impl/HostImpl$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/Impl/HostImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/STRUCTURE/UserInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/backend/IMG/Paint-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/backend/IMG/circleIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/backend/IMG/eraserIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/backend/IMG/lineIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/backend/IMG/ovalIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/backend/IMG/pencilIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/backend/IMG/rectIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/backend/IMG/textIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/backend/IMG/unimelblogo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/backend/META-INF/backend.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/COMM/FileOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/COMM/ThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/COMM/ToolType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/Home/HomeGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/Whiteboard/Canvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI/Whiteboard/WhiteboardGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IMG/circle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IMG/eraser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IMG/line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IMG/oval.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IMG/pencil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IMG/rect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IMG/text.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RMI/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RMI/Host.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RMI/Impl/ClientImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RMI/Impl/HostImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RMI/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/STRUCTURE/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jar/SharedWhiteboard_jar/SharedWhiteboard.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Jar/SharedWhiteboard_jar/SharedWhiteboard.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/COMM/ThreadPool$Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/COMM/ThreadPool$Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/COMM/ThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/COMM/ThreadPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Home/HomeGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Home/HomeGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Home/HomeGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Home/HomeGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/Canvas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$1Tool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$1Tool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/GUI/Whiteboard/WhiteboardGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/Host.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/Host.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/Impl/ClientImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/Impl/ClientImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/Impl/HostImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/Impl/HostImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SharedWhiteboard/RMI/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SharedWhiteboard/STRUCTURE/UserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/COMM/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COMM/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/Home/HomeGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/Home/HomeGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/Whiteboard/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/Whiteboard/Canvas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/Whiteboard/WhiteboardGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI/Whiteboard/WhiteboardGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMI/Host.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RMI/Host.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMI/Impl/ClientImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RMI/Impl/ClientImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMI/Impl/HostImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RMI/Impl/HostImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RMI/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RMI/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/STRUCTURE/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/COMM/UserInfo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,10 +69,131 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GUI/Whiteboard/WhiteboardGUI.java">
+        <entry file="file://$PROJECT_DIR$/src/GUI/Home/HomeGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+            <state relative-caret-position="154">
+              <caret line="120" column="30" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/COMM/FileOperation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1594">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GUI/Whiteboard/Canvas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2943">
+              <caret line="285" column="13" selection-start-line="285" selection-start-column="13" selection-end-line="285" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#Shape#0;class#Canvas#0" />
+                <element signature="method#setToolType#0;class#Canvas#0" />
+                <element signature="method#clear#0;class#Canvas#0" />
+                <element signature="method#save#0;class#Canvas#0" />
+                <element signature="method#loadImage#0;class#Canvas#0" />
+                <element signature="method#paint#0;class#Canvas#0" />
+                <element signature="method#draw#0;class#Canvas#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/COMM/ToolType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/COMM/ThreadPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="121" column="29" selection-start-line="121" selection-start-column="29" selection-end-line="121" selection-end-column="29" />
+              <folding>
+                <element signature="e#4078#4079#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RMI/Impl/HostImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RMI/Impl/ClientImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RMI/Host.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RMI/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RMI/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/COMM/UserInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,17 +202,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/GUI/Whiteboard/Canvas.java">
+        <entry file="file://$PROJECT_DIR$/src/GUI/Whiteboard/WhiteboardGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="314" column="13" selection-start-line="314" selection-start-column="13" selection-end-line="314" selection-end-column="13" />
+            <state relative-caret-position="399">
+              <caret line="227" column="35" lean-forward="true" selection-start-line="227" selection-start-column="35" selection-end-line="227" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3575#3582#0" expanded="true" />
-                <element signature="e#3647#3654#0" expanded="true" />
-                <element signature="method#setToolType#0;class#Canvas#0" />
-                <element signature="e#12929#12936#0" expanded="true" />
-                <element signature="e#13174#13181#0" expanded="true" />
+                <element signature="e#4962#4963#0" expanded="true" />
+                <element signature="e#5016#5017#0" expanded="true" />
+                <element signature="e#5270#5271#0" expanded="true" />
+                <element signature="e#5326#5327#0" expanded="true" />
+                <element signature="e#10369#10370#0" expanded="true" />
+                <element signature="e#10415#10416#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,12 +230,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>EXI</find>
-      <find>Date</find>
-      <find>serialVersionUID</find>
-      <find>loadNotify</find>
-      <find>kick</find>
-      <find>Kick</find>
       <find>kick out</find>
       <find>Thread</find>
       <find>message</find>
@@ -199,6 +254,12 @@
       <find>points</find>
       <find>draw</find>
       <find>paint</find>
+      <find>Canvas</find>
+      <find>chooser</find>
+      <find>kic</find>
+      <find>Kick</find>
+      <find>TODO A</find>
+      <find>CLOSE</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -230,20 +291,20 @@
         <option value="$PROJECT_DIR$/src/COMM/FileOperation.java" />
         <option value="$PROJECT_DIR$/src/RMI/Host.java" />
         <option value="$PROJECT_DIR$/src/RMI/User.java" />
-        <option value="$PROJECT_DIR$/src/RMI/Impl/ClientImpl.java" />
-        <option value="$PROJECT_DIR$/src/COMM/ThreadPool.java" />
         <option value="$PROJECT_DIR$/src/GUI/Home/HomeGUI.java" />
         <option value="$PROJECT_DIR$/src/RMI/Impl/HostImpl.java" />
-        <option value="$PROJECT_DIR$/src/GUI/Whiteboard/WhiteboardGUI.java" />
+        <option value="$PROJECT_DIR$/src/RMI/Impl/ClientImpl.java" />
+        <option value="$PROJECT_DIR$/src/COMM/ThreadPool.java" />
         <option value="$PROJECT_DIR$/src/GUI/Whiteboard/Canvas.java" />
+        <option value="$PROJECT_DIR$/src/GUI/Whiteboard/WhiteboardGUI.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="387" />
-    <option name="y" value="175" />
-    <option name="width" value="2042" />
-    <option name="height" value="1460" />
+    <option name="x" value="368" />
+    <option name="y" value="156" />
+    <option name="width" value="1814" />
+    <option name="height" value="1333" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -270,6 +331,45 @@
               <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="COMM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="Whiteboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IMG" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RMI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SharedWhiteboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SharedWhiteboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RMI" type="462c0819:PsiDirectoryNode" />
+              <item name="Impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -313,7 +413,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.1">
+  <component name="RunManager" selected="Application.2">
     <configuration name="1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="SharedWhiteboard" />
@@ -353,15 +453,15 @@
       <updated>1590734216203</updated>
       <workItem from="1590734218914" duration="99777000" />
       <workItem from="1590950993709" duration="199000" />
-      <workItem from="1590951282154" duration="6901000" />
+      <workItem from="1590951282154" duration="18423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106877000" />
+    <option name="totallyTimeSpent" value="118399000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-15" y="0" width="2042" height="1407" extended-state="0" />
+    <frame x="368" y="156" width="1814" height="1333" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -369,7 +469,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50053823" side_tool="true" weight="0.11764706" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4994618" visible="true" weight="0.15237135" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4994618" visible="true" weight="0.118586086" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -378,8 +478,8 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3283582" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.29772192" />
-      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.21131186" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32860717" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.20286576" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32757267" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -398,18 +498,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/GUI/Whiteboard/Canvas.java</url>
-          <line>318</line>
-          <properties />
-          <option name="timeStamp" value="231" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/backend$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1590838619854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -490,13 +578,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RMI/Impl/UserImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/role/whiteboard.java" />
-    <entry file="file://$PROJECT_DIR$/src/COMM/ToolType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/net/Socket.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
@@ -521,13 +602,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RMI/WhiteboardInfo.java" />
     <entry file="file://$PROJECT_DIR$/asd.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/RMI/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/javax/swing/JFileChooser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
@@ -547,19 +621,54 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/COMM/MyFileFilter.java" />
-    <entry file="file://$PROJECT_DIR$/src/COMM/FileOperation.java">
+    <entry file="file://$PROJECT_DIR$/SharedWhiteboard.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/COMM/InputPane.java" />
+    <entry file="file://$PROJECT_DIR$/src/IMG/circleIcon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IMG/unimelblogo.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IMG/pencilIcon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/COMM/Registry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="114" column="17" lean-forward="true" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
+        <state relative-caret-position="60">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/awt/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3420">
+          <caret line="141" column="8" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="993" column="16" selection-start-line="993" selection-start-column="16" selection-end-line="993" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMI/Host.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#930#931#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#1026#1027#0" expanded="true" />
-            <element signature="e#1060#1061#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMI/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -573,25 +682,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RMI/Impl/ClientImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/COMM/UserInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="81" column="12" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
+        <state relative-caret-position="240">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1603#1611#0" expanded="true" />
-            <element signature="e#1663#1671#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SharedWhiteboard.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RMI/Host.java">
+    <entry file="file://$PROJECT_DIR$/src/COMM/ToolType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="60">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/COMM/FileOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1594">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GUI/Home/HomeGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="120" column="30" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMI/Impl/HostImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RMI/Impl/ClientImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -600,93 +741,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/COMM/ThreadPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/COMM/InputPane.java" />
-    <entry file="file://$PROJECT_DIR$/src/STRUCTURE/UserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        <state relative-caret-position="213">
+          <caret line="121" column="29" selection-start-line="121" selection-start-column="29" selection-end-line="121" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#4078#4079#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IMG/circleIcon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IMG/unimelblogo.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IMG/pencilIcon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RMI/Impl/HostImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/GUI/Whiteboard/Canvas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="e#920#935#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GUI/Home/HomeGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3600">
-          <caret line="120" column="30" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
+        <state relative-caret-position="2943">
+          <caret line="285" column="13" selection-start-line="285" selection-start-column="13" selection-end-line="285" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="class#Shape#0;class#Canvas#0" />
+            <element signature="method#setToolType#0;class#Canvas#0" />
+            <element signature="method#clear#0;class#Canvas#0" />
+            <element signature="method#save#0;class#Canvas#0" />
+            <element signature="method#loadImage#0;class#Canvas#0" />
+            <element signature="method#paint#0;class#Canvas#0" />
+            <element signature="method#draw#0;class#Canvas#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GUI/Whiteboard/WhiteboardGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        <state relative-caret-position="399">
+          <caret line="227" column="35" lean-forward="true" selection-start-line="227" selection-start-column="35" selection-end-line="227" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/COMM/Registry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/javax/swing/JComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="993" column="16" selection-start-line="993" selection-start-column="16" selection-end-line="993" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/awt/Canvas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3420">
-          <caret line="141" column="8" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GUI/Whiteboard/Canvas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="314" column="13" selection-start-line="314" selection-start-column="13" selection-end-line="314" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3575#3582#0" expanded="true" />
-            <element signature="e#3647#3654#0" expanded="true" />
-            <element signature="method#setToolType#0;class#Canvas#0" />
-            <element signature="e#12929#12936#0" expanded="true" />
-            <element signature="e#13174#13181#0" expanded="true" />
+            <element signature="e#4962#4963#0" expanded="true" />
+            <element signature="e#5016#5017#0" expanded="true" />
+            <element signature="e#5270#5271#0" expanded="true" />
+            <element signature="e#5326#5327#0" expanded="true" />
+            <element signature="e#10369#10370#0" expanded="true" />
+            <element signature="e#10415#10416#0" expanded="true" />
           </folding>
         </state>
       </provider>

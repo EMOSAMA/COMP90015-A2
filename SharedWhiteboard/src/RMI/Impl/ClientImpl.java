@@ -2,7 +2,7 @@ package RMI.Impl;
 
 import GUI.Whiteboard.WhiteboardGUI;
 import RMI.Client;
-import STRUCTURE.UserInfo;
+import COMM.UserInfo;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
@@ -32,7 +32,6 @@ public class ClientImpl extends UnicastRemoteObject implements Client {
             BufferedImage image = ImageIO.read(in);
             GUI.getCanvas().loadImage(image);
         } catch (IOException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
     }

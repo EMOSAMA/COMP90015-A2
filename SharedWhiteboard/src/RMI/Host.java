@@ -1,6 +1,6 @@
 package RMI;
 
-import STRUCTURE.UserInfo;
+import COMM.UserInfo;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

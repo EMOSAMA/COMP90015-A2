@@ -4,7 +4,7 @@ import RMI.Client;
 import RMI.Host;
 import RMI.Impl.ClientImpl;
 import RMI.Impl.HostImpl;
-import STRUCTURE.UserInfo;
+import COMM.UserInfo;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;

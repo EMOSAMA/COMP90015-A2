@@ -1,4 +1,4 @@
-package STRUCTURE;
+package COMM;
 import java.io.Serializable;
 import java.util.UUID;
 

@@ -4,7 +4,7 @@ import COMM.FileOperation;
 import COMM.ThreadPool;
 import COMM.ToolType;
 import RMI.Host;
-import STRUCTURE.UserInfo;
+import COMM.UserInfo;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
@@ -208,6 +208,23 @@ public class WhiteboardGUI extends JFrame{
 			mnFile.add(mntmClose);
 			mntmClose.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
+					try {
+						Registry registry = LocateRegistry.getRegistry(hostInfo.getUserIpAddress(),hostInfo.getPort());
+						Host host = (Host) registry.lookup( "hostServer");
+						threadPool.execute(new Runnable() {
+							@Override
+							public void run() {
+								try {
+									host.hostExit ();
+								}catch (Exception e1){
+
+								}
+							}
+						});
+						//host.hostExit ();
+					}catch (Exception e1) {
+
+					}
 					System.exit(0);
 				}
 			});

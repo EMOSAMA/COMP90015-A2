@@ -3,7 +3,7 @@ package RMI.Impl;
 import GUI.Whiteboard.WhiteboardGUI;
 import RMI.Client;
 import RMI.Host;
-import STRUCTURE.UserInfo;
+import COMM.UserInfo;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
@@ -320,6 +320,7 @@ public class HostImpl extends UnicastRemoteObject implements Host {
                 return;
             }
         }
+        JOptionPane.showMessageDialog(null,"This user is not found!");
     }
 
     @Override

@@ -120,7 +120,6 @@ public class ThreadPool<Job extends Runnable>{
     }
 
     public int getJobSize() {
-        // TODO Auto-generated method stub
         return workers.size();
     }
     class Worker implements Runnable {
